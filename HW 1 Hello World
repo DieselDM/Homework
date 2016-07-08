@@ -1,0 +1,35 @@
+David Hartman
+COSC-2425 PC Assembly
+
+HW#1: Questions
+
+What kind of computer did you use to do this work?
+Laptop: ASUS Notebook K53 Series
+Processor: Intel(R) Core (TM) i3-2310M CPU @ 2.10GHz 
+Operating System: Windows 10 Education 
+
+
+What programming language did you use?
+I used C++, I could have used Python. 
+
+
+What tools did you use to complete this work?
+Vim used as editor for this documentation.
+Dev C++ I am used to this IDE from Fund II&III courses.
+Gitbash to move file to command line to GitHub account.
+
+
+What commands (or buttons) did you use to complete this work?
+Dev C++ used rebuild(F12), clean, run(F10,F11), and compile(F9,F11) to test .cpp file
+Vim used easy editor so did not use keyboard commands
+
+What files were produced as part of this process, and where did they end up on your system?
+text file to display these answers.
+.cpp file for main code program.
+.cpp file for display function/module included in main.
+I added all to a folder under my name (David) on C: drive under Documents of my personal laptop.
+
+
+
+
+
